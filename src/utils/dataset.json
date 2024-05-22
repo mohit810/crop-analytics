@@ -1,0 +1,7386 @@
+[
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "CoarseCereals",
+    "production": 154,
+    "yield": 408,
+    "cultivationArea": 377
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "CottonLint",
+    "production": 30,
+    "yield": 88,
+    "cultivationArea": 58.8
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Groundnut",
+    "production": 35,
+    "yield": 775,
+    "cultivationArea": 44.9
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Pulses",
+    "production": 84,
+    "yield": 441,
+    "cultivationArea": 191
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "RapeseedMustard",
+    "production": 8,
+    "yield": 368,
+    "cultivationArea": 20.7
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "RawJuteMesta",
+    "production": 33,
+    "yield": 1043,
+    "cultivationArea": 5.7
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Rice",
+    "production": 206,
+    "yield": 668,
+    "cultivationArea": 308
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Sugarcane",
+    "production": 571,
+    "yield": 33422,
+    "cultivationArea": 17.1
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 731,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1950",
+    "cropName": "Wheat",
+    "production": 65,
+    "yield": 663,
+    "cultivationArea": 98
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "CoarseCereals",
+    "production": 161,
+    "yield": 414,
+    "cultivationArea": 389
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "CottonLint",
+    "production": 33,
+    "yield": 85,
+    "cultivationArea": 65.6
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Groundnut",
+    "production": 32,
+    "yield": 649,
+    "cultivationArea": 49.2
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Pulses",
+    "production": 84,
+    "yield": 448,
+    "cultivationArea": 188
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "RapeseedMustard",
+    "production": 9,
+    "yield": 393,
+    "cultivationArea": 24
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "RawJuteMesta",
+    "production": 47,
+    "yield": 1074,
+    "cultivationArea": 7.9
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Rice",
+    "production": 213,
+    "yield": 714,
+    "cultivationArea": 298
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Sugarcane",
+    "production": 616,
+    "yield": 31786,
+    "cultivationArea": 19.4
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Tobacco",
+    "production": 2,
+    "yield": 723,
+    "cultivationArea": 2.9
+  },
+  {
+    "country": "India",
+    "year": "1951",
+    "cropName": "Wheat",
+    "production": 62,
+    "yield": 653,
+    "cultivationArea": 95
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "CoarseCereals",
+    "production": 196,
+    "yield": 462,
+    "cultivationArea": 425
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "CottonLint",
+    "production": 33,
+    "yield": 89,
+    "cultivationArea": 63.6
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Groundnut",
+    "production": 29,
+    "yield": 611,
+    "cultivationArea": 48
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Pulses",
+    "production": 92,
+    "yield": 463,
+    "cultivationArea": 198
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "RapeseedMustard",
+    "production": 9,
+    "yield": 408,
+    "cultivationArea": 21.1
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "RawJuteMesta",
+    "production": 53,
+    "yield": 1028,
+    "cultivationArea": 9.3
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Rice",
+    "production": 229,
+    "yield": 764,
+    "cultivationArea": 300
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Sugarcane",
+    "production": 510,
+    "yield": 29495,
+    "cultivationArea": 17.3
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 675,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1952",
+    "cropName": "Wheat",
+    "production": 75,
+    "yield": 763,
+    "cultivationArea": 98
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "CoarseCereals",
+    "production": 230,
+    "yield": 506,
+    "cultivationArea": 454
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "CottonLint",
+    "production": 41,
+    "yield": 100,
+    "cultivationArea": 69.9
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Groundnut",
+    "production": 35,
+    "yield": 811,
+    "cultivationArea": 42.5
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Pulses",
+    "production": 106,
+    "yield": 489,
+    "cultivationArea": 217
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "RapeseedMustard",
+    "production": 9,
+    "yield": 389,
+    "cultivationArea": 22.4
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "RawJuteMesta",
+    "production": 38,
+    "yield": 992,
+    "cultivationArea": 6.8
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Rice",
+    "production": 282,
+    "yield": 902,
+    "cultivationArea": 313
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Sugarcane",
+    "production": 444,
+    "yield": 31497,
+    "cultivationArea": 14.1
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 737,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "1953",
+    "cropName": "Wheat",
+    "production": 80,
+    "yield": 750,
+    "cultivationArea": 107
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "CoarseCereals",
+    "production": 228,
+    "yield": 520,
+    "cultivationArea": 439
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "CottonLint",
+    "production": 45,
+    "yield": 100,
+    "cultivationArea": 75.5
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Groundnut",
+    "production": 43,
+    "yield": 766,
+    "cultivationArea": 55.4
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Pulses",
+    "production": 110,
+    "yield": 500,
+    "cultivationArea": 219
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "RapeseedMustard",
+    "production": 10,
+    "yield": 425,
+    "cultivationArea": 24.4
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "RawJuteMesta",
+    "production": 39,
+    "yield": 1021,
+    "cultivationArea": 6.8
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Rice",
+    "production": 252,
+    "yield": 820,
+    "cultivationArea": 308
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Sugarcane",
+    "production": 587,
+    "yield": 36303,
+    "cultivationArea": 16.2
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 737,
+    "cultivationArea": 3.5
+  },
+  {
+    "country": "India",
+    "year": "1954",
+    "cropName": "Wheat",
+    "production": 90,
+    "yield": 803,
+    "cultivationArea": 113
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "CoarseCereals",
+    "production": 195,
+    "yield": 449,
+    "cultivationArea": 435
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "CottonLint",
+    "production": 42,
+    "yield": 88,
+    "cultivationArea": 80.9
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Groundnut",
+    "production": 39,
+    "yield": 752,
+    "cultivationArea": 51.3
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Pulses",
+    "production": 110,
+    "yield": 476,
+    "cultivationArea": 232
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "RapeseedMustard",
+    "production": 9,
+    "yield": 336,
+    "cultivationArea": 25.6
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "RawJuteMesta",
+    "production": 54,
+    "yield": 1038,
+    "cultivationArea": 9.4
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Rice",
+    "production": 276,
+    "yield": 874,
+    "cultivationArea": 315
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Sugarcane",
+    "production": 605,
+    "yield": 32779,
+    "cultivationArea": 18.5
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 739,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1955",
+    "cropName": "Wheat",
+    "production": 88,
+    "yield": 708,
+    "cultivationArea": 124
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "CoarseCereals",
+    "production": 199,
+    "yield": 473,
+    "cultivationArea": 420
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "CottonLint",
+    "production": 49,
+    "yield": 104,
+    "cultivationArea": 80.2
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Groundnut",
+    "production": 44,
+    "yield": 783,
+    "cultivationArea": 55.3
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Pulses",
+    "production": 116,
+    "yield": 495,
+    "cultivationArea": 233
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "RapeseedMustard",
+    "production": 10,
+    "yield": 411,
+    "cultivationArea": 25.4
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "RawJuteMesta",
+    "production": 58,
+    "yield": 977,
+    "cultivationArea": 10.7
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Rice",
+    "production": 290,
+    "yield": 900,
+    "cultivationArea": 323
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Sugarcane",
+    "production": 691,
+    "yield": 33683,
+    "cultivationArea": 20.5
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 728,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1956",
+    "cropName": "Wheat",
+    "production": 94,
+    "yield": 695,
+    "cultivationArea": 135
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "CoarseCereals",
+    "production": 212,
+    "yield": 495,
+    "cultivationArea": 429
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "CottonLint",
+    "production": 50,
+    "yield": 105,
+    "cultivationArea": 80.1
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Groundnut",
+    "production": 47,
+    "yield": 734,
+    "cultivationArea": 64.2
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Pulses",
+    "production": 96,
+    "yield": 424,
+    "cultivationArea": 225
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "RapeseedMustard",
+    "production": 9,
+    "yield": 387,
+    "cultivationArea": 24.1
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "RawJuteMesta",
+    "production": 53,
+    "yield": 944,
+    "cultivationArea": 10.2
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Rice",
+    "production": 255,
+    "yield": 790,
+    "cultivationArea": 323
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Sugarcane",
+    "production": 712,
+    "yield": 34325,
+    "cultivationArea": 20.7
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Tobacco",
+    "production": 2,
+    "yield": 669,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1957",
+    "cropName": "Wheat",
+    "production": 80,
+    "yield": 682,
+    "cultivationArea": 117
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "CoarseCereals",
+    "production": 232,
+    "yield": 519,
+    "cultivationArea": 447
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "CottonLint",
+    "production": 49,
+    "yield": 104,
+    "cultivationArea": 79.6
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Groundnut",
+    "production": 52,
+    "yield": 828,
+    "cultivationArea": 62.5
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Pulses",
+    "production": 132,
+    "yield": 541,
+    "cultivationArea": 243
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "RapeseedMustard",
+    "production": 10,
+    "yield": 426,
+    "cultivationArea": 24.5
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "RawJuteMesta",
+    "production": 69,
+    "yield": 1130,
+    "cultivationArea": 11
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Rice",
+    "production": 309,
+    "yield": 930,
+    "cultivationArea": 332
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Sugarcane",
+    "production": 734,
+    "yield": 37658,
+    "cultivationArea": 19.5
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 836,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "1958",
+    "cropName": "Wheat",
+    "production": 100,
+    "yield": 789,
+    "cultivationArea": 126
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "CoarseCereals",
+    "production": 229,
+    "yield": 522,
+    "cultivationArea": 438
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "CottonLint",
+    "production": 37,
+    "yield": 86,
+    "cultivationArea": 73
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Groundnut",
+    "production": 46,
+    "yield": 708,
+    "cultivationArea": 64.4
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Pulses",
+    "production": 118,
+    "yield": 475,
+    "cultivationArea": 248
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "RapeseedMustard",
+    "production": 11,
+    "yield": 365,
+    "cultivationArea": 29.1
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "RawJuteMesta",
+    "production": 57,
+    "yield": 1049,
+    "cultivationArea": 9.8
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Rice",
+    "production": 317,
+    "yield": 937,
+    "cultivationArea": 338
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Sugarcane",
+    "production": 778,
+    "yield": 36414,
+    "cultivationArea": 21.4
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 716,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1959",
+    "cropName": "Wheat",
+    "production": 103,
+    "yield": 772,
+    "cultivationArea": 134
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "CoarseCereals",
+    "production": 237,
+    "yield": 528,
+    "cultivationArea": 450
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "CottonLint",
+    "production": 56,
+    "yield": 125,
+    "cultivationArea": 76.1
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Groundnut",
+    "production": 48,
+    "yield": 745,
+    "cultivationArea": 64.6
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Pulses",
+    "production": 127,
+    "yield": 539,
+    "cultivationArea": 236
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "RapeseedMustard",
+    "production": 14,
+    "yield": 467,
+    "cultivationArea": 28.8
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "RawJuteMesta",
+    "production": 53,
+    "yield": 1049,
+    "cultivationArea": 9
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Rice",
+    "production": 346,
+    "yield": 1013,
+    "cultivationArea": 341
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Sugarcane",
+    "production": 1100,
+    "yield": 45549,
+    "cultivationArea": 24.2
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 766,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "1960",
+    "cropName": "Wheat",
+    "production": 110,
+    "yield": 851,
+    "cultivationArea": 129
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "CoarseCereals",
+    "production": 232,
+    "yield": 519,
+    "cultivationArea": 447
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "CottonLint",
+    "production": 49,
+    "yield": 103,
+    "cultivationArea": 79.8
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Groundnut",
+    "production": 50,
+    "yield": 725,
+    "cultivationArea": 68.9
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Pulses",
+    "production": 118,
+    "yield": 485,
+    "cultivationArea": 242
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "RapeseedMustard",
+    "production": 14,
+    "yield": 425,
+    "cultivationArea": 31.7
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "RawJuteMesta",
+    "production": 82,
+    "yield": 1104,
+    "cultivationArea": 13.4
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Rice",
+    "production": 357,
+    "yield": 1028,
+    "cultivationArea": 347
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Sugarcane",
+    "production": 1040,
+    "yield": 42349,
+    "cultivationArea": 24.6
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 811,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1961",
+    "cropName": "Wheat",
+    "production": 121,
+    "yield": 890,
+    "cultivationArea": 136
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "CoarseCereals",
+    "production": 246,
+    "yield": 556,
+    "cultivationArea": 443
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "CottonLint",
+    "production": 55,
+    "yield": 122,
+    "cultivationArea": 77.3
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Groundnut",
+    "production": 51,
+    "yield": 695,
+    "cultivationArea": 72.8
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Pulses",
+    "production": 115,
+    "yield": 475,
+    "cultivationArea": 243
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "RapeseedMustard",
+    "production": 13,
+    "yield": 417,
+    "cultivationArea": 31.3
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "RawJuteMesta",
+    "production": 72,
+    "yield": 1041,
+    "cultivationArea": 12.4
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Rice",
+    "production": 332,
+    "yield": 931,
+    "cultivationArea": 357
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Sugarcane",
+    "production": 919,
+    "yield": 40996,
+    "cultivationArea": 22.4
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 842,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1962",
+    "cropName": "Wheat",
+    "production": 108,
+    "yield": 793,
+    "cultivationArea": 136
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "CoarseCereals",
+    "production": 237,
+    "yield": 540,
+    "cultivationArea": 439
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "CottonLint",
+    "production": 58,
+    "yield": 119,
+    "cultivationArea": 82.2
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Groundnut",
+    "production": 53,
+    "yield": 769,
+    "cultivationArea": 68.9
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Pulses",
+    "production": 101,
+    "yield": 416,
+    "cultivationArea": 242
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "RapeseedMustard",
+    "production": 9,
+    "yield": 300,
+    "cultivationArea": 30.5
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "RawJuteMesta",
+    "production": 80,
+    "yield": 1130,
+    "cultivationArea": 12.7
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Rice",
+    "production": 370,
+    "yield": 1033,
+    "cultivationArea": 358
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Sugarcane",
+    "production": 1042,
+    "yield": 46353,
+    "cultivationArea": 22.5
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 817,
+    "cultivationArea": 4.4
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "cropName": "Wheat",
+    "production": 99,
+    "yield": 730,
+    "cultivationArea": 135
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "CoarseCereals",
+    "production": 254,
+    "yield": 514,
+    "cultivationArea": 444
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "CottonLint",
+    "production": 60,
+    "yield": 122,
+    "cultivationArea": 83.7
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Groundnut",
+    "production": 60,
+    "yield": 814,
+    "cultivationArea": 73.8
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Pulses",
+    "production": 124,
+    "yield": 520,
+    "cultivationArea": 239
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "RapeseedMustard",
+    "production": 15,
+    "yield": 507,
+    "cultivationArea": 29.1
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "RawJuteMesta",
+    "production": 77,
+    "yield": 1136,
+    "cultivationArea": 12.1
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Rice",
+    "production": 393,
+    "yield": 1078,
+    "cultivationArea": 365
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Sugarcane",
+    "production": 1219,
+    "yield": 46838,
+    "cultivationArea": 26
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 876,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1964",
+    "cropName": "Wheat",
+    "production": 123,
+    "yield": 913,
+    "cultivationArea": 134
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "CoarseCereals",
+    "production": 214,
+    "yield": 483,
+    "cultivationArea": 443
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "CottonLint",
+    "production": 49,
+    "yield": 104,
+    "cultivationArea": 79.6
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Groundnut",
+    "production": 43,
+    "yield": 554,
+    "cultivationArea": 77
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Pulses",
+    "production": 99,
+    "yield": 438,
+    "cultivationArea": 227
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "RapeseedMustard",
+    "production": 13,
+    "yield": 446,
+    "cultivationArea": 29.1
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "RawJuteMesta",
+    "production": 58,
+    "yield": 936,
+    "cultivationArea": 11.1
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Rice",
+    "production": 306,
+    "yield": 862,
+    "cultivationArea": 355
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Sugarcane",
+    "production": 1240,
+    "yield": 43717,
+    "cultivationArea": 28.4
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 778,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "1965",
+    "cropName": "Wheat",
+    "production": 104,
+    "yield": 827,
+    "cultivationArea": 126
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "CoarseCereals",
+    "production": 241,
+    "yield": 533,
+    "cultivationArea": 451
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "CottonLint",
+    "production": 53,
+    "yield": 114,
+    "cultivationArea": 78.4
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Groundnut",
+    "production": 44,
+    "yield": 604,
+    "cultivationArea": 73
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Pulses",
+    "production": 84,
+    "yield": 377,
+    "cultivationArea": 221
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "RapeseedMustard",
+    "production": 12,
+    "yield": 408,
+    "cultivationArea": 30.1
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "RawJuteMesta",
+    "production": 66,
+    "yield": 1058,
+    "cultivationArea": 11.2
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Rice",
+    "production": 304,
+    "yield": 863,
+    "cultivationArea": 353
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Sugarcane",
+    "production": 928,
+    "yield": 40336,
+    "cultivationArea": 23
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 834,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1966",
+    "cropName": "Wheat",
+    "production": 114,
+    "yield": 887,
+    "cultivationArea": 128
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "CoarseCereals",
+    "production": 288,
+    "yield": 608,
+    "cultivationArea": 473
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "CottonLint",
+    "production": 58,
+    "yield": 123,
+    "cultivationArea": 80
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Groundnut",
+    "production": 57,
+    "yield": 759,
+    "cultivationArea": 75.5
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Pulses",
+    "production": 121,
+    "yield": 534,
+    "cultivationArea": 227
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "RapeseedMustard",
+    "production": 16,
+    "yield": 483,
+    "cultivationArea": 32.4
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "RawJuteMesta",
+    "production": 76,
+    "yield": 1137,
+    "cultivationArea": 12
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Rice",
+    "production": 376,
+    "yield": 1032,
+    "cultivationArea": 364
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Sugarcane",
+    "production": 955,
+    "yield": 40665,
+    "cultivationArea": 20.5
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 871,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1967",
+    "cropName": "Wheat",
+    "production": 165,
+    "yield": 1103,
+    "cultivationArea": 150
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "CoarseCereals",
+    "production": 252,
+    "yield": 545,
+    "cultivationArea": 462
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "CottonLint",
+    "production": 55,
+    "yield": 122,
+    "cultivationArea": 76
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Groundnut",
+    "production": 46,
+    "yield": 653,
+    "cultivationArea": 70.9
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Pulses",
+    "production": 104,
+    "yield": 490,
+    "cultivationArea": 213
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "RapeseedMustard",
+    "production": 14,
+    "yield": 469,
+    "cultivationArea": 28.7
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "RawJuteMesta",
+    "production": 38,
+    "yield": 855,
+    "cultivationArea": 8.1
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Rice",
+    "production": 398,
+    "yield": 1076,
+    "cultivationArea": 370
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Sugarcane",
+    "production": 1247,
+    "yield": 49236,
+    "cultivationArea": 25.3
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 821,
+    "cultivationArea": 4.4
+  },
+  {
+    "country": "India",
+    "year": "1968",
+    "cropName": "Wheat",
+    "production": 187,
+    "yield": 1169,
+    "cultivationArea": 160
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "CoarseCereals",
+    "production": 273,
+    "yield": 578,
+    "cultivationArea": 472
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Coffee",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "CottonLint",
+    "production": 56,
+    "yield": 122,
+    "cultivationArea": 77.3
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Groundnut",
+    "production": 51,
+    "yield": 720,
+    "cultivationArea": 71.3
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Pulses",
+    "production": 117,
+    "yield": 531,
+    "cultivationArea": 220
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "RapeseedMustard",
+    "production": 16,
+    "yield": 493,
+    "cultivationArea": 31.7
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "RawJuteMesta",
+    "production": 68,
+    "yield": 1120,
+    "cultivationArea": 10.9
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Rice",
+    "production": 404,
+    "yield": 1073,
+    "cultivationArea": 377
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Soyabean",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Sugarcane",
+    "production": 1350,
+    "yield": 49121,
+    "cultivationArea": 27.5
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Tea",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 770,
+    "cultivationArea": 4.4
+  },
+  {
+    "country": "India",
+    "year": "1969",
+    "cropName": "Wheat",
+    "production": 201,
+    "yield": 1208,
+    "cultivationArea": 166
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "CoarseCereals",
+    "production": 306,
+    "yield": 665,
+    "cultivationArea": 460
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Coffee",
+    "production": 1102,
+    "yield": 814,
+    "cultivationArea": 1.4
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "CottonLint",
+    "production": 48,
+    "yield": 106,
+    "cultivationArea": 76.1
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Groundnut",
+    "production": 61,
+    "yield": 834,
+    "cultivationArea": 73.3
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Pulses",
+    "production": 118,
+    "yield": 524,
+    "cultivationArea": 225
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "RapeseedMustard",
+    "production": 20,
+    "yield": 594,
+    "cultivationArea": 33.2
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "RawJuteMesta",
+    "production": 62,
+    "yield": 1032,
+    "cultivationArea": 10.8
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Rice",
+    "production": 422,
+    "yield": 1123,
+    "cultivationArea": 376
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Soyabean",
+    "production": 0,
+    "yield": 426,
+    "cultivationArea": 0.3
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Sugarcane",
+    "production": 1264,
+    "yield": 48322,
+    "cultivationArea": 26.2
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Tea",
+    "production": 4190,
+    "yield": 1182,
+    "cultivationArea": 3.5
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 810,
+    "cultivationArea": 4.5
+  },
+  {
+    "country": "India",
+    "year": "1970",
+    "cropName": "Wheat",
+    "production": 238,
+    "yield": 1307,
+    "cultivationArea": 182
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "CoarseCereals",
+    "production": 246,
+    "yield": 564,
+    "cultivationArea": 436
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Coffee",
+    "production": 690,
+    "yield": 498,
+    "cultivationArea": 1.4
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "CottonLint",
+    "production": 70,
+    "yield": 151,
+    "cultivationArea": 78
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Groundnut",
+    "production": 62,
+    "yield": 823,
+    "cultivationArea": 75.1
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Pulses",
+    "production": 111,
+    "yield": 501,
+    "cultivationArea": 222
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "RapeseedMustard",
+    "production": 14,
+    "yield": 396,
+    "cultivationArea": 36.1
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "RawJuteMesta",
+    "production": 68,
+    "yield": 1107,
+    "cultivationArea": 11.1
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Rice",
+    "production": 431,
+    "yield": 1141,
+    "cultivationArea": 378
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Soyabean",
+    "production": 0,
+    "yield": 426,
+    "cultivationArea": 0.3
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Sugarcane",
+    "production": 1136,
+    "yield": 47511,
+    "cultivationArea": 23.9
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Tea",
+    "production": 4350,
+    "yield": 1221,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 914,
+    "cultivationArea": 4.6
+  },
+  {
+    "country": "India",
+    "year": "1971",
+    "cropName": "Wheat",
+    "production": 264,
+    "yield": 1380,
+    "cultivationArea": 191
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "CoarseCereals",
+    "production": 231,
+    "yield": 548,
+    "cultivationArea": 422
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Coffee",
+    "production": 911,
+    "yield": 620,
+    "cultivationArea": 1.5
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "CottonLint",
+    "production": 57,
+    "yield": 127,
+    "cultivationArea": 76.8
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Groundnut",
+    "production": 41,
+    "yield": 585,
+    "cultivationArea": 69.9
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Pulses",
+    "production": 99,
+    "yield": 474,
+    "cultivationArea": 209
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "RapeseedMustard",
+    "production": 18,
+    "yield": 545,
+    "cultivationArea": 33.2
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "RawJuteMesta",
+    "production": 61,
+    "yield": 1104,
+    "cultivationArea": 9.9
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Rice",
+    "production": 392,
+    "yield": 1070,
+    "cultivationArea": 367
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Soyabean",
+    "production": 0,
+    "yield": 819,
+    "cultivationArea": 0.3
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Sugarcane",
+    "production": 1249,
+    "yield": 50933,
+    "cultivationArea": 24.5
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Tea",
+    "production": 4560,
+    "yield": 1271,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 837,
+    "cultivationArea": 4.5
+  },
+  {
+    "country": "India",
+    "year": "1972",
+    "cropName": "Wheat",
+    "production": 247,
+    "yield": 1271,
+    "cultivationArea": 195
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "CoarseCereals",
+    "production": 288,
+    "yield": 623,
+    "cultivationArea": 462
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Coffee",
+    "production": 864,
+    "yield": 555,
+    "cultivationArea": 1.6
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "CottonLint",
+    "production": 63,
+    "yield": 142,
+    "cultivationArea": 75.7
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Groundnut",
+    "production": 59,
+    "yield": 845,
+    "cultivationArea": 70.2
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Pulses",
+    "production": 100,
+    "yield": 427,
+    "cultivationArea": 234
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "RapeseedMustard",
+    "production": 17,
+    "yield": 493,
+    "cultivationArea": 34.6
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "RawJuteMesta",
+    "production": 77,
+    "yield": 1188,
+    "cultivationArea": 11.6
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Rice",
+    "production": 441,
+    "yield": 1151,
+    "cultivationArea": 383
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Soyabean",
+    "production": 0,
+    "yield": 829,
+    "cultivationArea": 0.5
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Sugarcane",
+    "production": 1408,
+    "yield": 51163,
+    "cultivationArea": 27.5
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Tea",
+    "production": 4720,
+    "yield": 1311,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1001,
+    "cultivationArea": 4.6
+  },
+  {
+    "country": "India",
+    "year": "1973",
+    "cropName": "Wheat",
+    "production": 218,
+    "yield": 1172,
+    "cultivationArea": 186
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "CoarseCereals",
+    "production": 261,
+    "yield": 606,
+    "cultivationArea": 432
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Coffee",
+    "production": 925,
+    "yield": 592,
+    "cultivationArea": 1.6
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "CottonLint",
+    "production": 72,
+    "yield": 161,
+    "cultivationArea": 75.6
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Groundnut",
+    "production": 51,
+    "yield": 724,
+    "cultivationArea": 70.6
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Pulses",
+    "production": 100,
+    "yield": 455,
+    "cultivationArea": 220
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "RapeseedMustard",
+    "production": 23,
+    "yield": 612,
+    "cultivationArea": 36.8
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "RawJuteMesta",
+    "production": 58,
+    "yield": 1068,
+    "cultivationArea": 9.8
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Rice",
+    "production": 396,
+    "yield": 1045,
+    "cultivationArea": 379
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Soyabean",
+    "production": 1,
+    "yield": 768,
+    "cultivationArea": 0.7
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Sugarcane",
+    "production": 1443,
+    "yield": 49855,
+    "cultivationArea": 28.9
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Tea",
+    "production": 4890,
+    "yield": 1353,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 954,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "1974",
+    "cropName": "Wheat",
+    "production": 241,
+    "yield": 1338,
+    "cultivationArea": 180
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "CoarseCereals",
+    "production": 304,
+    "yield": 694,
+    "cultivationArea": 438
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Coffee",
+    "production": 840,
+    "yield": 490,
+    "cultivationArea": 1.7
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "CottonLint",
+    "production": 60,
+    "yield": 138,
+    "cultivationArea": 73.5
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Groundnut",
+    "production": 68,
+    "yield": 935,
+    "cultivationArea": 72.2
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Pulses",
+    "production": 130,
+    "yield": 533,
+    "cultivationArea": 245
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "RapeseedMustard",
+    "production": 19,
+    "yield": 580,
+    "cultivationArea": 33.4
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "RawJuteMesta",
+    "production": 59,
+    "yield": 1164,
+    "cultivationArea": 9.1
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Rice",
+    "production": 487,
+    "yield": 1235,
+    "cultivationArea": 395
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Soyabean",
+    "production": 1,
+    "yield": 975,
+    "cultivationArea": 0.9
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Sugarcane",
+    "production": 1406,
+    "yield": 50903,
+    "cultivationArea": 27.6
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Tea",
+    "production": 4870,
+    "yield": 1341,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 950,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "1975",
+    "cropName": "Wheat",
+    "production": 288,
+    "yield": 1410,
+    "cultivationArea": 205
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "CoarseCereals",
+    "production": 289,
+    "yield": 689,
+    "cultivationArea": 419
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Coffee",
+    "production": 1023,
+    "yield": 712,
+    "cultivationArea": 1.4
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "CottonLint",
+    "production": 58,
+    "yield": 144,
+    "cultivationArea": 68.9
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Groundnut",
+    "production": 53,
+    "yield": 747,
+    "cultivationArea": 70.4
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Pulses",
+    "production": 114,
+    "yield": 494,
+    "cultivationArea": 230
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "RapeseedMustard",
+    "production": 16,
+    "yield": 496,
+    "cultivationArea": 31.3
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "RawJuteMesta",
+    "production": 71,
+    "yield": 1173,
+    "cultivationArea": 10.9
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Rice",
+    "production": 419,
+    "yield": 1089,
+    "cultivationArea": 385
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Soyabean",
+    "production": 1,
+    "yield": 988,
+    "cultivationArea": 1.3
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Sugarcane",
+    "production": 1530,
+    "yield": 53383,
+    "cultivationArea": 28.7
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Tea",
+    "production": 5120,
+    "yield": 1407,
+    "cultivationArea": 3.6
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 969,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1976",
+    "cropName": "Wheat",
+    "production": 290,
+    "yield": 1387,
+    "cultivationArea": 209
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "CoarseCereals",
+    "production": 300,
+    "yield": 710,
+    "cultivationArea": 423
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Coffee",
+    "production": 1251,
+    "yield": 840,
+    "cultivationArea": 1.5
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "CottonLint",
+    "production": 72,
+    "yield": 157,
+    "cultivationArea": 78.7
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Groundnut",
+    "production": 61,
+    "yield": 866,
+    "cultivationArea": 70.3
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Pulses",
+    "production": 120,
+    "yield": 510,
+    "cultivationArea": 235
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "RapeseedMustard",
+    "production": 17,
+    "yield": 460,
+    "cultivationArea": 35.8
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "RawJuteMesta",
+    "production": 72,
+    "yield": 1108,
+    "cultivationArea": 11.6
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Rice",
+    "production": 527,
+    "yield": 1308,
+    "cultivationArea": 403
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Soyabean",
+    "production": 2,
+    "yield": 940,
+    "cultivationArea": 2
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Sugarcane",
+    "production": 1770,
+    "yield": 56160,
+    "cultivationArea": 31.5
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Tea",
+    "production": 5560,
+    "yield": 1519,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 979,
+    "cultivationArea": 5
+  },
+  {
+    "country": "India",
+    "year": "1977",
+    "cropName": "Wheat",
+    "production": 318,
+    "yield": 1480,
+    "cultivationArea": 215
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "CoarseCereals",
+    "production": 304,
+    "yield": 721,
+    "cultivationArea": 422
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Coffee",
+    "production": 1105,
+    "yield": 706,
+    "cultivationArea": 1.6
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "CottonLint",
+    "production": 80,
+    "yield": 167,
+    "cultivationArea": 81.2
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Groundnut",
+    "production": 62,
+    "yield": 835,
+    "cultivationArea": 74.3
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Pulses",
+    "production": 122,
+    "yield": 515,
+    "cultivationArea": 237
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "RapeseedMustard",
+    "production": 19,
+    "yield": 525,
+    "cultivationArea": 35.4
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "RawJuteMesta",
+    "production": 83,
+    "yield": 1186,
+    "cultivationArea": 12.7
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Rice",
+    "production": 538,
+    "yield": 1328,
+    "cultivationArea": 405
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Soyabean",
+    "production": 3,
+    "yield": 975,
+    "cultivationArea": 3.1
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Sugarcane",
+    "production": 1517,
+    "yield": 49114,
+    "cultivationArea": 30.9
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Tea",
+    "production": 5640,
+    "yield": 1528,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1109,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1978",
+    "cropName": "Wheat",
+    "production": 355,
+    "yield": 1568,
+    "cultivationArea": 226
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "CoarseCereals",
+    "production": 270,
+    "yield": 652,
+    "cultivationArea": 414
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Coffee",
+    "production": 1498,
+    "yield": 889,
+    "cultivationArea": 1.7
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "CottonLint",
+    "production": 77,
+    "yield": 160,
+    "cultivationArea": 81.3
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Groundnut",
+    "production": 58,
+    "yield": 805,
+    "cultivationArea": 71.7
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Pulses",
+    "production": 86,
+    "yield": 385,
+    "cultivationArea": 223
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "RapeseedMustard",
+    "production": 14,
+    "yield": 411,
+    "cultivationArea": 34.7
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "RawJuteMesta",
+    "production": 80,
+    "yield": 1177,
+    "cultivationArea": 12.2
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Rice",
+    "production": 423,
+    "yield": 1074,
+    "cultivationArea": 394
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Soyabean",
+    "production": 3,
+    "yield": 568,
+    "cultivationArea": 5
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Sugarcane",
+    "production": 1288,
+    "yield": 49358,
+    "cultivationArea": 26.1
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Tea",
+    "production": 5440,
+    "yield": 1455,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 1031,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1979",
+    "cropName": "Wheat",
+    "production": 318,
+    "yield": 1436,
+    "cultivationArea": 222
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "CoarseCereals",
+    "production": 290,
+    "yield": 695,
+    "cultivationArea": 418
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Coffee",
+    "production": 1187,
+    "yield": 624,
+    "cultivationArea": 1.9
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "CottonLint",
+    "production": 70,
+    "yield": 152,
+    "cultivationArea": 78.2
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Groundnut",
+    "production": 50,
+    "yield": 736,
+    "cultivationArea": 68
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Pulses",
+    "production": 106,
+    "yield": 473,
+    "cultivationArea": 225
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "RapeseedMustard",
+    "production": 23,
+    "yield": 560,
+    "cultivationArea": 41.1
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "RawJuteMesta",
+    "production": 82,
+    "yield": 1130,
+    "cultivationArea": 13
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Rice",
+    "production": 536,
+    "yield": 1336,
+    "cultivationArea": 402
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Soyabean",
+    "production": 4,
+    "yield": 728,
+    "cultivationArea": 6.1
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Sugarcane",
+    "production": 1543,
+    "yield": 57844,
+    "cultivationArea": 26.7
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Tea",
+    "production": 5696,
+    "yield": 1491,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1065,
+    "cultivationArea": 4.5
+  },
+  {
+    "country": "India",
+    "year": "1980",
+    "cropName": "Wheat",
+    "production": 363,
+    "yield": 1630,
+    "cultivationArea": 223
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "CoarseCereals",
+    "production": 311,
+    "yield": 733,
+    "cultivationArea": 425
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Coffee",
+    "production": 1521,
+    "yield": 785,
+    "cultivationArea": 1.9
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "CottonLint",
+    "production": 79,
+    "yield": 166,
+    "cultivationArea": 80.6
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Groundnut",
+    "production": 72,
+    "yield": 972,
+    "cultivationArea": 74.3
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Pulses",
+    "production": 115,
+    "yield": 483,
+    "cultivationArea": 238
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "RapeseedMustard",
+    "production": 24,
+    "yield": 541,
+    "cultivationArea": 44
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "RawJuteMesta",
+    "production": 84,
+    "yield": 1311,
+    "cultivationArea": 11.5
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Rice",
+    "production": 533,
+    "yield": 1308,
+    "cultivationArea": 407
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Soyabean",
+    "production": 4,
+    "yield": 741,
+    "cultivationArea": 4.8
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Sugarcane",
+    "production": 1864,
+    "yield": 58359,
+    "cultivationArea": 31.9
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Tea",
+    "production": 5604,
+    "yield": 1461,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1172,
+    "cultivationArea": 4.4
+  },
+  {
+    "country": "India",
+    "year": "1981",
+    "cropName": "Wheat",
+    "production": 375,
+    "yield": 1691,
+    "cultivationArea": 221
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "CoarseCereals",
+    "production": 278,
+    "yield": 685,
+    "cultivationArea": 404
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Coffee",
+    "production": 1300,
+    "yield": 646,
+    "cultivationArea": 2.1
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "CottonLint",
+    "production": 75,
+    "yield": 163,
+    "cultivationArea": 78.7
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Groundnut",
+    "production": 53,
+    "yield": 732,
+    "cultivationArea": 72.2
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Pulses",
+    "production": 119,
+    "yield": 519,
+    "cultivationArea": 228
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "RapeseedMustard",
+    "production": 22,
+    "yield": 577,
+    "cultivationArea": 38.3
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "RawJuteMesta",
+    "production": 72,
+    "yield": 1265,
+    "cultivationArea": 10.2
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Rice",
+    "production": 471,
+    "yield": 1231,
+    "cultivationArea": 383
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Soyabean",
+    "production": 5,
+    "yield": 637,
+    "cultivationArea": 7.7
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Sugarcane",
+    "production": 1895,
+    "yield": 56441,
+    "cultivationArea": 33.6
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Tea",
+    "production": 5607,
+    "yield": 1422,
+    "cultivationArea": 3.9
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1157,
+    "cultivationArea": 5
+  },
+  {
+    "country": "India",
+    "year": "1982",
+    "cropName": "Wheat",
+    "production": 428,
+    "yield": 1816,
+    "cultivationArea": 236
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "CoarseCereals",
+    "production": 339,
+    "yield": 813,
+    "cultivationArea": 417
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Coffee",
+    "production": 1050,
+    "yield": 507,
+    "cultivationArea": 2.1
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "CottonLint",
+    "production": 64,
+    "yield": 141,
+    "cultivationArea": 77.2
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Groundnut",
+    "production": 71,
+    "yield": 940,
+    "cultivationArea": 75.4
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Pulses",
+    "production": 129,
+    "yield": 548,
+    "cultivationArea": 235
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "RapeseedMustard",
+    "production": 26,
+    "yield": 673,
+    "cultivationArea": 38.7
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "RawJuteMesta",
+    "production": 77,
+    "yield": 1320,
+    "cultivationArea": 10.5
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Rice",
+    "production": 601,
+    "yield": 1457,
+    "cultivationArea": 412
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Soyabean",
+    "production": 6,
+    "yield": 735,
+    "cultivationArea": 8.4
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Sugarcane",
+    "production": 1741,
+    "yield": 55978,
+    "cultivationArea": 31.1
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Tea",
+    "production": 5815,
+    "yield": 1468,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1120,
+    "cultivationArea": 4.4
+  },
+  {
+    "country": "India",
+    "year": "1983",
+    "cropName": "Wheat",
+    "production": 455,
+    "yield": 1843,
+    "cultivationArea": 247
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "CoarseCereals",
+    "production": 312,
+    "yield": 795,
+    "cultivationArea": 392
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Coffee",
+    "production": 1951,
+    "yield": 936,
+    "cultivationArea": 2.1
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "CottonLint",
+    "production": 85,
+    "yield": 196,
+    "cultivationArea": 73.8
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Groundnut",
+    "production": 64,
+    "yield": 898,
+    "cultivationArea": 71.7
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Pulses",
+    "production": 120,
+    "yield": 526,
+    "cultivationArea": 227
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "RapeseedMustard",
+    "production": 31,
+    "yield": 771,
+    "cultivationArea": 39.9
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "RawJuteMesta",
+    "production": 78,
+    "yield": 1242,
+    "cultivationArea": 11.3
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Rice",
+    "production": 583,
+    "yield": 1417,
+    "cultivationArea": 412
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Soyabean",
+    "production": 10,
+    "yield": 768,
+    "cultivationArea": 12.4
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Sugarcane",
+    "production": 1703,
+    "yield": 57673,
+    "cultivationArea": 29.5
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Tea",
+    "production": 6399,
+    "yield": 1606,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1113,
+    "cultivationArea": 4.4
+  },
+  {
+    "country": "India",
+    "year": "1984",
+    "cropName": "Wheat",
+    "production": 441,
+    "yield": 1870,
+    "cultivationArea": 236
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "CoarseCereals",
+    "production": 262,
+    "yield": 664,
+    "cultivationArea": 395
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Coffee",
+    "production": 1225,
+    "yield": 571,
+    "cultivationArea": 2.1
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "CottonLint",
+    "production": 87,
+    "yield": 197,
+    "cultivationArea": 75.3
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Groundnut",
+    "production": 51,
+    "yield": 719,
+    "cultivationArea": 71.2
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Pulses",
+    "production": 134,
+    "yield": 547,
+    "cultivationArea": 244
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "RapeseedMustard",
+    "production": 27,
+    "yield": 674,
+    "cultivationArea": 39.8
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "RawJuteMesta",
+    "production": 127,
+    "yield": 1524,
+    "cultivationArea": 15
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Rice",
+    "production": 638,
+    "yield": 1552,
+    "cultivationArea": 411
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Soyabean",
+    "production": 10,
+    "yield": 764,
+    "cultivationArea": 13.4
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Sugarcane",
+    "production": 1707,
+    "yield": 59889,
+    "cultivationArea": 28.5
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Tea",
+    "production": 6562,
+    "yield": 1641,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 1111,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "1985",
+    "cropName": "Wheat",
+    "production": 471,
+    "yield": 2046,
+    "cultivationArea": 230
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "CoarseCereals",
+    "production": 268,
+    "yield": 675,
+    "cultivationArea": 397
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Coffee",
+    "production": 1921,
+    "yield": 891,
+    "cultivationArea": 2.2
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "CottonLint",
+    "production": 69,
+    "yield": 169,
+    "cultivationArea": 69.5
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Groundnut",
+    "production": 59,
+    "yield": 841,
+    "cultivationArea": 69.8
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Pulses",
+    "production": 117,
+    "yield": 506,
+    "cultivationArea": 232
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "RapeseedMustard",
+    "production": 26,
+    "yield": 700,
+    "cultivationArea": 37.2
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "RawJuteMesta",
+    "production": 86,
+    "yield": 1454,
+    "cultivationArea": 10.7
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Rice",
+    "production": 606,
+    "yield": 1471,
+    "cultivationArea": 412
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Soyabean",
+    "production": 9,
+    "yield": 584,
+    "cultivationArea": 15.3
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Sugarcane",
+    "production": 1861,
+    "yield": 60444,
+    "cultivationArea": 30.8
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Tea",
+    "production": 6246,
+    "yield": 1508,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1187,
+    "cultivationArea": 3.9
+  },
+  {
+    "country": "India",
+    "year": "1986",
+    "cropName": "Wheat",
+    "production": 443,
+    "yield": 1916,
+    "cultivationArea": 231
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "CoarseCereals",
+    "production": 264,
+    "yield": 721,
+    "cultivationArea": 366
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Coffee",
+    "production": 1227,
+    "yield": 563,
+    "cultivationArea": 2.2
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "CottonLint",
+    "production": 64,
+    "yield": 168,
+    "cultivationArea": 64.6
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Groundnut",
+    "production": 59,
+    "yield": 855,
+    "cultivationArea": 68.4
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Pulses",
+    "production": 110,
+    "yield": 515,
+    "cultivationArea": 213
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "RapeseedMustard",
+    "production": 35,
+    "yield": 748,
+    "cultivationArea": 46.2
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "RawJuteMesta",
+    "production": 68,
+    "yield": 1274,
+    "cultivationArea": 9.6
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Rice",
+    "production": 569,
+    "yield": 1465,
+    "cultivationArea": 388
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Soyabean",
+    "production": 9,
+    "yield": 582,
+    "cultivationArea": 15.4
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Sugarcane",
+    "production": 1967,
+    "yield": 60006,
+    "cultivationArea": 32.8
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Tea",
+    "production": 6743,
+    "yield": 1628,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 1155,
+    "cultivationArea": 3.2
+  },
+  {
+    "country": "India",
+    "year": "1987",
+    "cropName": "Wheat",
+    "production": 462,
+    "yield": 2002,
+    "cultivationArea": 231
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "CoarseCereals",
+    "production": 315,
+    "yield": 814,
+    "cultivationArea": 387
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Coffee",
+    "production": 2147,
+    "yield": 972,
+    "cultivationArea": 2.2
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "CottonLint",
+    "production": 87,
+    "yield": 202,
+    "cultivationArea": 73.4
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Groundnut",
+    "production": 97,
+    "yield": 1132,
+    "cultivationArea": 85.3
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Pulses",
+    "production": 139,
+    "yield": 598,
+    "cultivationArea": 232
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "RapeseedMustard",
+    "production": 44,
+    "yield": 906,
+    "cultivationArea": 48.3
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "RawJuteMesta",
+    "production": 79,
+    "yield": 1540,
+    "cultivationArea": 9.2
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Rice",
+    "production": 705,
+    "yield": 1689,
+    "cultivationArea": 417
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Soyabean",
+    "production": 16,
+    "yield": 892,
+    "cultivationArea": 17.3
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Sugarcane",
+    "production": 2030,
+    "yield": 60992,
+    "cultivationArea": 33.3
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Tea",
+    "production": 7011,
+    "yield": 1693,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1307,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "1988",
+    "cropName": "Wheat",
+    "production": 541,
+    "yield": 2244,
+    "cultivationArea": 241
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "CoarseCereals",
+    "production": 348,
+    "yield": 922,
+    "cultivationArea": 377
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Coffee",
+    "production": 1181,
+    "yield": 534,
+    "cultivationArea": 2.2
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "CottonLint",
+    "production": 114,
+    "yield": 252,
+    "cultivationArea": 76.9
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Groundnut",
+    "production": 81,
+    "yield": 930,
+    "cultivationArea": 87.1
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Pulses",
+    "production": 129,
+    "yield": 549,
+    "cultivationArea": 234
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "RapeseedMustard",
+    "production": 41,
+    "yield": 831,
+    "cultivationArea": 49.7
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "RawJuteMesta",
+    "production": 83,
+    "yield": 1646,
+    "cultivationArea": 9.1
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Rice",
+    "production": 736,
+    "yield": 1745,
+    "cultivationArea": 422
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Soyabean",
+    "production": 18,
+    "yield": 801,
+    "cultivationArea": 22.5
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Sugarcane",
+    "production": 2256,
+    "yield": 65612,
+    "cultivationArea": 34.4
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Tea",
+    "production": 6841,
+    "yield": 1652,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1335,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1989",
+    "cropName": "Wheat",
+    "production": 499,
+    "yield": 2121,
+    "cultivationArea": 235
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "CoarseCereals",
+    "production": 327,
+    "yield": 900,
+    "cultivationArea": 363
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Coffee",
+    "production": 1697,
+    "yield": 759,
+    "cultivationArea": 2.2
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "CottonLint",
+    "production": 98,
+    "yield": 225,
+    "cultivationArea": 74.4
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Groundnut",
+    "production": 75,
+    "yield": 904,
+    "cultivationArea": 83.1
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Pulses",
+    "production": 143,
+    "yield": 578,
+    "cultivationArea": 247
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "RapeseedMustard",
+    "production": 52,
+    "yield": 904,
+    "cultivationArea": 57.8
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "RawJuteMesta",
+    "production": 92,
+    "yield": 1634,
+    "cultivationArea": 10.2
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Rice",
+    "production": 743,
+    "yield": 1740,
+    "cultivationArea": 427
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Soyabean",
+    "production": 26,
+    "yield": 1015,
+    "cultivationArea": 25.6
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Sugarcane",
+    "production": 2411,
+    "yield": 65395,
+    "cultivationArea": 36.9
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Tea",
+    "production": 7203,
+    "yield": 1727,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1353,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "1990",
+    "cropName": "Wheat",
+    "production": 551,
+    "yield": 2281,
+    "cultivationArea": 242
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "CoarseCereals",
+    "production": 260,
+    "yield": 778,
+    "cultivationArea": 334
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Coffee",
+    "production": 1800,
+    "yield": 805,
+    "cultivationArea": 2.2
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "CottonLint",
+    "production": 97,
+    "yield": 216,
+    "cultivationArea": 76.6
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Groundnut",
+    "production": 71,
+    "yield": 818,
+    "cultivationArea": 86.7
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Pulses",
+    "production": 120,
+    "yield": 533,
+    "cultivationArea": 225
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "RapeseedMustard",
+    "production": 59,
+    "yield": 895,
+    "cultivationArea": 65.5
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "RawJuteMesta",
+    "production": 103,
+    "yield": 1662,
+    "cultivationArea": 11.1
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Rice",
+    "production": 747,
+    "yield": 1751,
+    "cultivationArea": 427
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Soyabean",
+    "production": 25,
+    "yield": 782,
+    "cultivationArea": 31.8
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Sugarcane",
+    "production": 2540,
+    "yield": 66069,
+    "cultivationArea": 38.4
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Tea",
+    "production": 7542,
+    "yield": 1800,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1369,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1991",
+    "cropName": "Wheat",
+    "production": 557,
+    "yield": 2394,
+    "cultivationArea": 233
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "CoarseCereals",
+    "production": 366,
+    "yield": 1063,
+    "cultivationArea": 344
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Coffee",
+    "production": 1694,
+    "yield": 758,
+    "cultivationArea": 2.2
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "CottonLint",
+    "production": 114,
+    "yield": 257,
+    "cultivationArea": 75.4
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Groundnut",
+    "production": 86,
+    "yield": 1049,
+    "cultivationArea": 81.7
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Pulses",
+    "production": 128,
+    "yield": 573,
+    "cultivationArea": 224
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "RapeseedMustard",
+    "production": 48,
+    "yield": 776,
+    "cultivationArea": 61.9
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "RawJuteMesta",
+    "production": 86,
+    "yield": 1658,
+    "cultivationArea": 9.3
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Rice",
+    "production": 729,
+    "yield": 1744,
+    "cultivationArea": 418
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Soyabean",
+    "production": 34,
+    "yield": 894,
+    "cultivationArea": 37.9
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Sugarcane",
+    "production": 2280,
+    "yield": 63843,
+    "cultivationArea": 35.7
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Tea",
+    "production": 7039,
+    "yield": 1664,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1425,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1992",
+    "cropName": "Wheat",
+    "production": 572,
+    "yield": 2327,
+    "cultivationArea": 246
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "CoarseCereals",
+    "production": 308,
+    "yield": 939,
+    "cultivationArea": 328
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Coffee",
+    "production": 2121,
+    "yield": 936,
+    "cultivationArea": 2.3
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "CottonLint",
+    "production": 107,
+    "yield": 249,
+    "cultivationArea": 73.2
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Groundnut",
+    "production": 78,
+    "yield": 941,
+    "cultivationArea": 83.2
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Pulses",
+    "production": 133,
+    "yield": 598,
+    "cultivationArea": 223
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "RapeseedMustard",
+    "production": 53,
+    "yield": 847,
+    "cultivationArea": 62.9
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "RawJuteMesta",
+    "production": 84,
+    "yield": 1713,
+    "cultivationArea": 8.9
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Rice",
+    "production": 803,
+    "yield": 1888,
+    "cultivationArea": 425
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Soyabean",
+    "production": 48,
+    "yield": 1086,
+    "cultivationArea": 43.7
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Sugarcane",
+    "production": 2297,
+    "yield": 67120,
+    "cultivationArea": 34.2
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Tea",
+    "production": 7608,
+    "yield": 1796,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1463,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "1993",
+    "cropName": "Wheat",
+    "production": 598,
+    "yield": 2380,
+    "cultivationArea": 252
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "CoarseCereals",
+    "production": 299,
+    "yield": 929,
+    "cultivationArea": 322
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Coffee",
+    "production": 1801,
+    "yield": 788,
+    "cultivationArea": 2.3
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "CottonLint",
+    "production": 119,
+    "yield": 257,
+    "cultivationArea": 78.7
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Groundnut",
+    "production": 81,
+    "yield": 1027,
+    "cultivationArea": 78.5
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Pulses",
+    "production": 140,
+    "yield": 610,
+    "cultivationArea": 230
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "RapeseedMustard",
+    "production": 58,
+    "yield": 958,
+    "cultivationArea": 60.1
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "RawJuteMesta",
+    "production": 91,
+    "yield": 1760,
+    "cultivationArea": 9.3
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Rice",
+    "production": 818,
+    "yield": 1911,
+    "cultivationArea": 428
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Soyabean",
+    "production": 39,
+    "yield": 911,
+    "cultivationArea": 43.2
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Sugarcane",
+    "production": 2755,
+    "yield": 71254,
+    "cultivationArea": 38.7
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Tea",
+    "production": 7529,
+    "yield": 1767,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1486,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "1994",
+    "cropName": "Wheat",
+    "production": 658,
+    "yield": 2559,
+    "cultivationArea": 257
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "CoarseCereals",
+    "production": 290,
+    "yield": 940,
+    "cultivationArea": 309
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Coffee",
+    "production": 2230,
+    "yield": 921,
+    "cultivationArea": 2.4
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "CottonLint",
+    "production": 129,
+    "yield": 242,
+    "cultivationArea": 90.4
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Groundnut",
+    "production": 76,
+    "yield": 1007,
+    "cultivationArea": 75.2
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Pulses",
+    "production": 123,
+    "yield": 552,
+    "cultivationArea": 223
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "RapeseedMustard",
+    "production": 60,
+    "yield": 916,
+    "cultivationArea": 65.5
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "RawJuteMesta",
+    "production": 88,
+    "yield": 1712,
+    "cultivationArea": 9.3
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Rice",
+    "production": 770,
+    "yield": 1797,
+    "cultivationArea": 428
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Soyabean",
+    "production": 51,
+    "yield": 1012,
+    "cultivationArea": 50.4
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Sugarcane",
+    "production": 2811,
+    "yield": 67787,
+    "cultivationArea": 41.5
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Tea",
+    "production": 7560,
+    "yield": 1770,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1356,
+    "cultivationArea": 3.9
+  },
+  {
+    "country": "India",
+    "year": "1995",
+    "cropName": "Wheat",
+    "production": 621,
+    "yield": 2483,
+    "cultivationArea": 250
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "CoarseCereals",
+    "production": 341,
+    "yield": 1072,
+    "cultivationArea": 318
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Coffee",
+    "production": 2050,
+    "yield": 816,
+    "cultivationArea": 2.5
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "CottonLint",
+    "production": 142,
+    "yield": 265,
+    "cultivationArea": 91.2
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Groundnut",
+    "production": 86,
+    "yield": 1138,
+    "cultivationArea": 76
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Pulses",
+    "production": 142,
+    "yield": 635,
+    "cultivationArea": 225
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "RapeseedMustard",
+    "production": 67,
+    "yield": 1017,
+    "cultivationArea": 65.5
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "RawJuteMesta",
+    "production": 111,
+    "yield": 1818,
+    "cultivationArea": 11
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Rice",
+    "production": 817,
+    "yield": 1882,
+    "cultivationArea": 434
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Soyabean",
+    "production": 54,
+    "yield": 987,
+    "cultivationArea": 54.5
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Sugarcane",
+    "production": 2776,
+    "yield": 66496,
+    "cultivationArea": 41.7
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Tea",
+    "production": 7801,
+    "yield": 1809,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1444,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1996",
+    "cropName": "Wheat",
+    "production": 694,
+    "yield": 2679,
+    "cultivationArea": 259
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "CoarseCereals",
+    "production": 304,
+    "yield": 986,
+    "cultivationArea": 308
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Coffee",
+    "production": 2283,
+    "yield": 799,
+    "cultivationArea": 2.9
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "CottonLint",
+    "production": 109,
+    "yield": 208,
+    "cultivationArea": 88.7
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Groundnut",
+    "production": 74,
+    "yield": 1040,
+    "cultivationArea": 70.9
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Pulses",
+    "production": 138,
+    "yield": 567,
+    "cultivationArea": 229
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "RapeseedMustard",
+    "production": 47,
+    "yield": 668,
+    "cultivationArea": 70.4
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "RawJuteMesta",
+    "production": 110,
+    "yield": 1792,
+    "cultivationArea": 11.1
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Rice",
+    "production": 825,
+    "yield": 1900,
+    "cultivationArea": 435
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Soyabean",
+    "production": 65,
+    "yield": 1079,
+    "cultivationArea": 59.9
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Sugarcane",
+    "production": 2795,
+    "yield": 71134,
+    "cultivationArea": 39.3
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Tea",
+    "production": 8356,
+    "yield": 1924,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1394,
+    "cultivationArea": 4.6
+  },
+  {
+    "country": "India",
+    "year": "1997",
+    "cropName": "Wheat",
+    "production": 664,
+    "yield": 2485,
+    "cultivationArea": 267
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "CoarseCereals",
+    "production": 313,
+    "yield": 1068,
+    "cultivationArea": 293
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Coffee",
+    "production": 2650,
+    "yield": 877,
+    "cultivationArea": 3
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "CottonLint",
+    "production": 123,
+    "yield": 224,
+    "cultivationArea": 93.4
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Groundnut",
+    "production": 90,
+    "yield": 1214,
+    "cultivationArea": 74
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Pulses",
+    "production": 149,
+    "yield": 634,
+    "cultivationArea": 235
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "RapeseedMustard",
+    "production": 57,
+    "yield": 869,
+    "cultivationArea": 65.1
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "RawJuteMesta",
+    "production": 98,
+    "yield": 1722,
+    "cultivationArea": 10.3
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Rice",
+    "production": 861,
+    "yield": 1921,
+    "cultivationArea": 448
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Soyabean",
+    "production": 71,
+    "yield": 1100,
+    "cultivationArea": 64.9
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Sugarcane",
+    "production": 2887,
+    "yield": 71203,
+    "cultivationArea": 40.5
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Tea",
+    "production": 8552,
+    "yield": 1804,
+    "cultivationArea": 4.7
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Tobacco",
+    "production": 7,
+    "yield": 1451,
+    "cultivationArea": 5.1
+  },
+  {
+    "country": "India",
+    "year": "1998",
+    "cropName": "Wheat",
+    "production": 713,
+    "yield": 2590,
+    "cultivationArea": 275
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "CoarseCereals",
+    "production": 303,
+    "yield": 1034,
+    "cultivationArea": 293
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Coffee",
+    "production": 2920,
+    "yield": 947,
+    "cultivationArea": 3.1
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "CottonLint",
+    "production": 115,
+    "yield": 225,
+    "cultivationArea": 87.1
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Groundnut",
+    "production": 53,
+    "yield": 766,
+    "cultivationArea": 68.7
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Pulses",
+    "production": 134,
+    "yield": 635,
+    "cultivationArea": 211
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "RapeseedMustard",
+    "production": 58,
+    "yield": 960,
+    "cultivationArea": 60.3
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "RawJuteMesta",
+    "production": 106,
+    "yield": 1836,
+    "cultivationArea": 10.4
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Rice",
+    "production": 897,
+    "yield": 1986,
+    "cultivationArea": 452
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Soyabean",
+    "production": 71,
+    "yield": 1138,
+    "cultivationArea": 62.2
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Sugarcane",
+    "production": 2993,
+    "yield": 70935,
+    "cultivationArea": 42.2
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Tea",
+    "production": 8369,
+    "yield": 1707,
+    "cultivationArea": 4.9
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1211,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "1999",
+    "cropName": "Wheat",
+    "production": 764,
+    "yield": 2778,
+    "cultivationArea": 275
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "CoarseCereals",
+    "production": 311,
+    "yield": 1027,
+    "cultivationArea": 303
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Coffee",
+    "production": 3012,
+    "yield": 959,
+    "cultivationArea": 3.1
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "CottonLint",
+    "production": 95,
+    "yield": 190,
+    "cultivationArea": 85.3
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Groundnut",
+    "production": 64,
+    "yield": 977,
+    "cultivationArea": 65.6
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Pulses",
+    "production": 111,
+    "yield": 544,
+    "cultivationArea": 204
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "RapeseedMustard",
+    "production": 42,
+    "yield": 935,
+    "cultivationArea": 44.8
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "RawJuteMesta",
+    "production": 106,
+    "yield": 1867,
+    "cultivationArea": 10.2
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Rice",
+    "production": 850,
+    "yield": 1901,
+    "cultivationArea": 447
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Soyabean",
+    "production": 53,
+    "yield": 822,
+    "cultivationArea": 64.2
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Sugarcane",
+    "production": 2960,
+    "yield": 68577,
+    "cultivationArea": 43.2
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Tea",
+    "production": 8484,
+    "yield": 1682,
+    "cultivationArea": 5
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Tobacco",
+    "production": 3,
+    "yield": 1318,
+    "cultivationArea": 2.6
+  },
+  {
+    "country": "India",
+    "year": "2000",
+    "cropName": "Wheat",
+    "production": 697,
+    "yield": 2708,
+    "cultivationArea": 257
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "CoarseCereals",
+    "production": 334,
+    "yield": 1131,
+    "cultivationArea": 295
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Coffee",
+    "production": 3006,
+    "yield": 937,
+    "cultivationArea": 3.2
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "CottonLint",
+    "production": 100,
+    "yield": 186,
+    "cultivationArea": 91.3
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Groundnut",
+    "production": 70,
+    "yield": 1127,
+    "cultivationArea": 62.4
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Pulses",
+    "production": 134,
+    "yield": 607,
+    "cultivationArea": 220
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "RapeseedMustard",
+    "production": 51,
+    "yield": 1002,
+    "cultivationArea": 50.7
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "RawJuteMesta",
+    "production": 117,
+    "yield": 2007,
+    "cultivationArea": 10.5
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Rice",
+    "production": 933,
+    "yield": 2079,
+    "cultivationArea": 449
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Soyabean",
+    "production": 60,
+    "yield": 940,
+    "cultivationArea": 63.4
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Sugarcane",
+    "production": 2972,
+    "yield": 67370,
+    "cultivationArea": 44.1
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Tea",
+    "production": 8514,
+    "yield": 1670,
+    "cultivationArea": 5.1
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1565,
+    "cultivationArea": 3.5
+  },
+  {
+    "country": "India",
+    "year": "2001",
+    "cropName": "Wheat",
+    "production": 728,
+    "yield": 2762,
+    "cultivationArea": 263
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "CoarseCereals",
+    "production": 261,
+    "yield": 966,
+    "cultivationArea": 270
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Coffee",
+    "production": 2753,
+    "yield": 839,
+    "cultivationArea": 3.3
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "CottonLint",
+    "production": 86,
+    "yield": 191,
+    "cultivationArea": 76.7
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Groundnut",
+    "production": 41,
+    "yield": 694,
+    "cultivationArea": 59.4
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Pulses",
+    "production": 111,
+    "yield": 543,
+    "cultivationArea": 205
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "RapeseedMustard",
+    "production": 39,
+    "yield": 854,
+    "cultivationArea": 45.4
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "RawJuteMesta",
+    "production": 113,
+    "yield": 1960,
+    "cultivationArea": 10.4
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Rice",
+    "production": 718,
+    "yield": 1744,
+    "cultivationArea": 412
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Soyabean",
+    "production": 47,
+    "yield": 762,
+    "cultivationArea": 61.1
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Sugarcane",
+    "production": 2874,
+    "yield": 63576,
+    "cultivationArea": 45.2
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Tea",
+    "production": 8460,
+    "yield": 1640,
+    "cultivationArea": 5.2
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1506,
+    "cultivationArea": 3.3
+  },
+  {
+    "country": "India",
+    "year": "2002",
+    "cropName": "Wheat",
+    "production": 658,
+    "yield": 2610,
+    "cultivationArea": 252
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "CoarseCereals",
+    "production": 376,
+    "yield": 1221,
+    "cultivationArea": 308
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Coffee",
+    "production": 2705,
+    "yield": 831,
+    "cultivationArea": 3.3
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "CottonLint",
+    "production": 137,
+    "yield": 307,
+    "cultivationArea": 76
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Groundnut",
+    "production": 81,
+    "yield": 1357,
+    "cultivationArea": 59.9
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Pulses",
+    "production": 149,
+    "yield": 635,
+    "cultivationArea": 235
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "RapeseedMustard",
+    "production": 63,
+    "yield": 1159,
+    "cultivationArea": 54.3
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "RawJuteMesta",
+    "production": 112,
+    "yield": 2008,
+    "cultivationArea": 10
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Rice",
+    "production": 885,
+    "yield": 2077,
+    "cultivationArea": 426
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Soyabean",
+    "production": 78,
+    "yield": 1193,
+    "cultivationArea": 65.6
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Sugarcane",
+    "production": 2339,
+    "yield": 59380,
+    "cultivationArea": 39.3
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Tea",
+    "production": 8787,
+    "yield": 1691,
+    "cultivationArea": 5.2
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1486,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "2003",
+    "cropName": "Wheat",
+    "production": 722,
+    "yield": 2713,
+    "cultivationArea": 266
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "CoarseCereals",
+    "production": 335,
+    "yield": 1153,
+    "cultivationArea": 290
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Coffee",
+    "production": 2755,
+    "yield": 826,
+    "cultivationArea": 3.3
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "CottonLint",
+    "production": 164,
+    "yield": 318,
+    "cultivationArea": 87.9
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Groundnut",
+    "production": 68,
+    "yield": 1020,
+    "cultivationArea": 66.4
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Pulses",
+    "production": 131,
+    "yield": 577,
+    "cultivationArea": 228
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "RapeseedMustard",
+    "production": 76,
+    "yield": 1038,
+    "cultivationArea": 73.2
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "RawJuteMesta",
+    "production": 103,
+    "yield": 2019,
+    "cultivationArea": 9.2
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Rice",
+    "production": 831,
+    "yield": 1984,
+    "cultivationArea": 419
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Soyabean",
+    "production": 69,
+    "yield": 908,
+    "cultivationArea": 75.7
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Sugarcane",
+    "production": 2371,
+    "yield": 64752,
+    "cultivationArea": 36.6
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Tea",
+    "production": 9068,
+    "yield": 1739,
+    "cultivationArea": 5.2
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1498,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "2004",
+    "cropName": "Wheat",
+    "production": 686,
+    "yield": 2602,
+    "cultivationArea": 264
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "CoarseCereals",
+    "production": 341,
+    "yield": 1172,
+    "cultivationArea": 291
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Coffee",
+    "production": 2740,
+    "yield": 803,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "CottonLint",
+    "production": 185,
+    "yield": 362,
+    "cultivationArea": 86.8
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Groundnut",
+    "production": 80,
+    "yield": 1187,
+    "cultivationArea": 67.4
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Pulses",
+    "production": 134,
+    "yield": 598,
+    "cultivationArea": 224
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "RapeseedMustard",
+    "production": 81,
+    "yield": 1117,
+    "cultivationArea": 72.8
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "RawJuteMesta",
+    "production": 108,
+    "yield": 2173,
+    "cultivationArea": 9
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Rice",
+    "production": 918,
+    "yield": 2102,
+    "cultivationArea": 437
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Soyabean",
+    "production": 83,
+    "yield": 1073,
+    "cultivationArea": 77.1
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Sugarcane",
+    "production": 2812,
+    "yield": 66919,
+    "cultivationArea": 42
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Tea",
+    "production": 9489,
+    "yield": 1708,
+    "cultivationArea": 5.6
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1351,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "2005",
+    "cropName": "Wheat",
+    "production": 694,
+    "yield": 2619,
+    "cultivationArea": 265
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "CoarseCereals",
+    "production": 339,
+    "yield": 1182,
+    "cultivationArea": 287
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Coffee",
+    "production": 2880,
+    "yield": 840,
+    "cultivationArea": 3.8
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "CottonLint",
+    "production": 226,
+    "yield": 421,
+    "cultivationArea": 91.4
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Groundnut",
+    "production": 49,
+    "yield": 866,
+    "cultivationArea": 56.2
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Pulses",
+    "production": 142,
+    "yield": 612,
+    "cultivationArea": 232
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "RapeseedMustard",
+    "production": 74,
+    "yield": 1095,
+    "cultivationArea": 67.9
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "RawJuteMesta",
+    "production": 113,
+    "yield": 2170,
+    "cultivationArea": 9.4
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Rice",
+    "production": 934,
+    "yield": 2131,
+    "cultivationArea": 438
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Soyabean",
+    "production": 89,
+    "yield": 1063,
+    "cultivationArea": 83.3
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Sugarcane",
+    "production": 3555,
+    "yield": 69022,
+    "cultivationArea": 51.5
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Tea",
+    "production": 9731,
+    "yield": 1716,
+    "cultivationArea": 5.7
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Tobacco",
+    "production": 5,
+    "yield": 1274,
+    "cultivationArea": 3.7
+  },
+  {
+    "country": "India",
+    "year": "2006",
+    "cropName": "Wheat",
+    "production": 758,
+    "yield": 2708,
+    "cultivationArea": 280
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "CoarseCereals",
+    "production": 408,
+    "yield": 1431,
+    "cultivationArea": 285
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Coffee",
+    "production": 2620,
+    "yield": 761,
+    "cultivationArea": 3.9
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "CottonLint",
+    "production": 259,
+    "yield": 467,
+    "cultivationArea": 94.1
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Groundnut",
+    "production": 92,
+    "yield": 1459,
+    "cultivationArea": 62.9
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Pulses",
+    "production": 148,
+    "yield": 625,
+    "cultivationArea": 236
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "RapeseedMustard",
+    "production": 58,
+    "yield": 1001,
+    "cultivationArea": 58.3
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "RawJuteMesta",
+    "production": 112,
+    "yield": 2101,
+    "cultivationArea": 9.6
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Rice",
+    "production": 967,
+    "yield": 2202,
+    "cultivationArea": 439
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Soyabean",
+    "production": 110,
+    "yield": 1235,
+    "cultivationArea": 88.8
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Sugarcane",
+    "production": 3482,
+    "yield": 68877,
+    "cultivationArea": 50.6
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Tea",
+    "production": 9870,
+    "yield": 1706,
+    "cultivationArea": 5.8
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Tobacco",
+    "production": 4,
+    "yield": 1255,
+    "cultivationArea": 3.5
+  },
+  {
+    "country": "India",
+    "year": "2007",
+    "cropName": "Wheat",
+    "production": 786,
+    "yield": 2802,
+    "cultivationArea": 280
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "CoarseCereals",
+    "production": 400,
+    "yield": 1459,
+    "cultivationArea": 275
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Coffee",
+    "production": 2623,
+    "yield": 748,
+    "cultivationArea": 3.9
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "CottonLint",
+    "production": 223,
+    "yield": 403,
+    "cultivationArea": 94.1
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Groundnut",
+    "production": 72,
+    "yield": 1163,
+    "cultivationArea": 61.6
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Pulses",
+    "production": 146,
+    "yield": 659,
+    "cultivationArea": 221
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "RapeseedMustard",
+    "production": 72,
+    "yield": 1143,
+    "cultivationArea": 63
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "RawJuteMesta",
+    "production": 104,
+    "yield": 2071,
+    "cultivationArea": 9
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Rice",
+    "production": 992,
+    "yield": 2178,
+    "cultivationArea": 455
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Soyabean",
+    "production": 99,
+    "yield": 1041,
+    "cultivationArea": 95.1
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Sugarcane",
+    "production": 2850,
+    "yield": 64553,
+    "cultivationArea": 44.2
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Tea",
+    "production": 9728,
+    "yield": 1679,
+    "cultivationArea": 5.8
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Tobacco",
+    "production": 6,
+    "yield": 1456,
+    "cultivationArea": 3.9
+  },
+  {
+    "country": "India",
+    "year": "2008",
+    "cropName": "Wheat",
+    "production": 807,
+    "yield": 2907,
+    "cultivationArea": 278
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "CoarseCereals",
+    "production": 336,
+    "yield": 1212,
+    "cultivationArea": 277
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Coffee",
+    "production": 2896,
+    "yield": 815,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "CottonLint",
+    "production": 240,
+    "yield": 403,
+    "cultivationArea": 101.3
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Groundnut",
+    "production": 54,
+    "yield": 991,
+    "cultivationArea": 54.8
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Pulses",
+    "production": 147,
+    "yield": 630,
+    "cultivationArea": 233
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "RapeseedMustard",
+    "production": 66,
+    "yield": 1183,
+    "cultivationArea": 55.9
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "RawJuteMesta",
+    "production": 118,
+    "yield": 2349,
+    "cultivationArea": 9.1
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Rice",
+    "production": 891,
+    "yield": 2125,
+    "cultivationArea": 419
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Soyabean",
+    "production": 100,
+    "yield": 1024,
+    "cultivationArea": 97.3
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Sugarcane",
+    "production": 2923,
+    "yield": 70020,
+    "cultivationArea": 41.8
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Tea",
+    "production": 9912,
+    "yield": 1711,
+    "cultivationArea": 5.8
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Tobacco",
+    "production": 7,
+    "yield": 1559,
+    "cultivationArea": 4.4
+  },
+  {
+    "country": "India",
+    "year": "2009",
+    "cropName": "Wheat",
+    "production": 808,
+    "yield": 2839,
+    "cultivationArea": 285
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "CoarseCereals",
+    "production": 434,
+    "yield": 1531,
+    "cultivationArea": 283
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Coffee",
+    "production": 3020,
+    "yield": 838,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "CottonLint",
+    "production": 330,
+    "yield": 499,
+    "cultivationArea": 112.4
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Groundnut",
+    "production": 83,
+    "yield": 1411,
+    "cultivationArea": 58.6
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Pulses",
+    "production": 182,
+    "yield": 691,
+    "cultivationArea": 264
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "RapeseedMustard",
+    "production": 82,
+    "yield": 1185,
+    "cultivationArea": 69
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "RawJuteMesta",
+    "production": 106,
+    "yield": 2192,
+    "cultivationArea": 8.7
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Rice",
+    "production": 960,
+    "yield": 2239,
+    "cultivationArea": 429
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Soyabean",
+    "production": 127,
+    "yield": 1327,
+    "cultivationArea": 96
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Sugarcane",
+    "production": 3424,
+    "yield": 70091,
+    "cultivationArea": 48.8
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Tea",
+    "production": 9667,
+    "yield": 1726,
+    "cultivationArea": 5.6
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Tobacco",
+    "production": 9,
+    "yield": 1794,
+    "cultivationArea": 4.9
+  },
+  {
+    "country": "India",
+    "year": "2010",
+    "cropName": "Wheat",
+    "production": 869,
+    "yield": 2988,
+    "cultivationArea": 291
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "CoarseCereals",
+    "production": 420,
+    "yield": 1590,
+    "cultivationArea": 264
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Coffee",
+    "production": 3140,
+    "yield": 852,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "CottonLint",
+    "production": 352,
+    "yield": 491,
+    "cultivationArea": 121.8
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Groundnut",
+    "production": 70,
+    "yield": 1323,
+    "cultivationArea": 52.6
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Pulses",
+    "production": 171,
+    "yield": 699,
+    "cultivationArea": 245
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "RapeseedMustard",
+    "production": 66,
+    "yield": 1121,
+    "cultivationArea": 58.9
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "RawJuteMesta",
+    "production": 114,
+    "yield": 2283,
+    "cultivationArea": 9
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Rice",
+    "production": 1053,
+    "yield": 2393,
+    "cultivationArea": 440
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Soyabean",
+    "production": 122,
+    "yield": 1208,
+    "cultivationArea": 101.1
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Sugarcane",
+    "production": 3610,
+    "yield": 71668,
+    "cultivationArea": 50.4
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Tea",
+    "production": 10955,
+    "yield": 1956,
+    "cultivationArea": 5.6
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Tobacco",
+    "production": 8,
+    "yield": 1613,
+    "cultivationArea": 4.6
+  },
+  {
+    "country": "India",
+    "year": "2011",
+    "cropName": "Wheat",
+    "production": 949,
+    "yield": 3177,
+    "cultivationArea": 299
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "CoarseCereals",
+    "production": 400,
+    "yield": 1617,
+    "cultivationArea": 248
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Coffee",
+    "production": 3182,
+    "yield": 846,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "CottonLint",
+    "production": 342,
+    "yield": 486,
+    "cultivationArea": 119.8
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Groundnut",
+    "production": 47,
+    "yield": 996,
+    "cultivationArea": 47.2
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Pulses",
+    "production": 183,
+    "yield": 789,
+    "cultivationArea": 233
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "RapeseedMustard",
+    "production": 80,
+    "yield": 1262,
+    "cultivationArea": 63.6
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "RawJuteMesta",
+    "production": 109,
+    "yield": 2281,
+    "cultivationArea": 8.7
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Rice",
+    "production": 1052,
+    "yield": 2461,
+    "cultivationArea": 428
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Soyabean",
+    "production": 147,
+    "yield": 1354,
+    "cultivationArea": 108.4
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Sugarcane",
+    "production": 3412,
+    "yield": 68254,
+    "cultivationArea": 50
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Tea",
+    "production": 11351,
+    "yield": 2027,
+    "cultivationArea": 5.6
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Tobacco",
+    "production": 7,
+    "yield": 1542,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "2012",
+    "cropName": "Wheat",
+    "production": 935,
+    "yield": 3117,
+    "cultivationArea": 300
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "CoarseCereals",
+    "production": 433,
+    "yield": 1677,
+    "cultivationArea": 257
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Coffee",
+    "production": 3045,
+    "yield": 799,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "CottonLint",
+    "production": 359,
+    "yield": 532,
+    "cultivationArea": 116.9
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Groundnut",
+    "production": 97,
+    "yield": 1750,
+    "cultivationArea": 55.3
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Pulses",
+    "production": 193,
+    "yield": 764,
+    "cultivationArea": 252
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "RapeseedMustard",
+    "production": 79,
+    "yield": 1188,
+    "cultivationArea": 67
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "RawJuteMesta",
+    "production": 117,
+    "yield": 2449,
+    "cultivationArea": 8.5
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Rice",
+    "production": 1067,
+    "yield": 2424,
+    "cultivationArea": 440
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Soyabean",
+    "production": 119,
+    "yield": 983,
+    "cultivationArea": 122
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Sugarcane",
+    "production": 3521,
+    "yield": 69839,
+    "cultivationArea": 50.1
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Tea",
+    "production": 12088,
+    "yield": 2121,
+    "cultivationArea": 5.7
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Tobacco",
+    "production": 7,
+    "yield": 1612.38,
+    "cultivationArea": 5
+  },
+  {
+    "country": "India",
+    "year": "2013",
+    "cropName": "Wheat",
+    "production": 959,
+    "yield": 3075,
+    "cultivationArea": 312
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "CoarseCereals",
+    "production": 429,
+    "yield": 1729,
+    "cultivationArea": 242
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Coffee",
+    "production": 3270,
+    "yield": 847,
+    "cultivationArea": 4.2
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "CottonLint",
+    "production": 348,
+    "yield": 461,
+    "cultivationArea": 130.8
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Groundnut",
+    "production": 74,
+    "yield": 1400,
+    "cultivationArea": 46.9
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Pulses",
+    "production": 172,
+    "yield": 744,
+    "cultivationArea": 231
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "RapeseedMustard",
+    "production": 63,
+    "yield": 1089,
+    "cultivationArea": 57.9
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "RawJuteMesta",
+    "production": 111,
+    "yield": 2550,
+    "cultivationArea": 8.1
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Rice",
+    "production": 1055,
+    "yield": 2390,
+    "cultivationArea": 439
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Soyabean",
+    "production": 104,
+    "yield": 950,
+    "cultivationArea": 110.9
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Sugarcane",
+    "production": 3623,
+    "yield": 69859,
+    "cultivationArea": 51.4
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Tea",
+    "production": 11972,
+    "yield": 2113,
+    "cultivationArea": 5.7
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Tobacco",
+    "production": 9,
+    "yield": 1830,
+    "cultivationArea": 5
+  },
+  {
+    "country": "India",
+    "year": "2014",
+    "cropName": "Wheat",
+    "production": 865,
+    "yield": 2872,
+    "cultivationArea": 310
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "CoarseCereals",
+    "production": 385,
+    "yield": 1579,
+    "cultivationArea": 244
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Coffee",
+    "production": 3480,
+    "yield": 876,
+    "cultivationArea": 4.3
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "CottonLint",
+    "production": 300,
+    "yield": 415,
+    "cultivationArea": 122.9
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Groundnut",
+    "production": 67,
+    "yield": 1465,
+    "cultivationArea": 45.9
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Pulses",
+    "production": 164,
+    "yield": 656,
+    "cultivationArea": 249
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "RapeseedMustard",
+    "production": 68,
+    "yield": 1183,
+    "cultivationArea": 57.4
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "RawJuteMesta",
+    "production": 105,
+    "yield": 2421,
+    "cultivationArea": 7.8
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Rice",
+    "production": 1044,
+    "yield": 2400,
+    "cultivationArea": 435
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Soyabean",
+    "production": 86,
+    "yield": 738,
+    "cultivationArea": 116
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Sugarcane",
+    "production": 3484,
+    "yield": 70720,
+    "cultivationArea": 49.3
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Tea",
+    "production": 12331,
+    "yield": 2176,
+    "cultivationArea": 5.7
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Tobacco",
+    "production": 8,
+    "yield": 1781,
+    "cultivationArea": 5
+  },
+  {
+    "country": "India",
+    "year": "2015",
+    "cropName": "Wheat",
+    "production": 923,
+    "yield": 3034,
+    "cultivationArea": 304
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "CoarseCereals",
+    "production": 438,
+    "yield": 1750,
+    "cultivationArea": 250
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Coffee",
+    "production": 3120,
+    "yield": 761,
+    "cultivationArea": 4.5
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "CottonLint",
+    "production": 326,
+    "yield": 512,
+    "cultivationArea": 108.3
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Groundnut",
+    "production": 75,
+    "yield": 1398,
+    "cultivationArea": 53.4
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Pulses",
+    "production": 231,
+    "yield": 786,
+    "cultivationArea": 294
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "RapeseedMustard",
+    "production": 79,
+    "yield": 1304,
+    "cultivationArea": 60.7
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "RawJuteMesta",
+    "production": 110,
+    "yield": 2585,
+    "cultivationArea": 7.6
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Rice",
+    "production": 1097,
+    "yield": 2494,
+    "cultivationArea": 440
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Soyabean",
+    "production": 132,
+    "yield": 1177,
+    "cultivationArea": 111.8
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Sugarcane",
+    "production": 3061,
+    "yield": 69001,
+    "cultivationArea": 44.4
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Tea",
+    "production": 12505,
+    "yield": 2165,
+    "cultivationArea": 5.8
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Tobacco",
+    "production": 8,
+    "yield": 2016,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "2016",
+    "cropName": "Wheat",
+    "production": 985,
+    "yield": 3200,
+    "cultivationArea": 308
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "CoarseCereals",
+    "production": 470,
+    "yield": 1934,
+    "cultivationArea": 243
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Coffee",
+    "production": 3160,
+    "yield": 765,
+    "cultivationArea": 4.5
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "CottonLint",
+    "production": 328,
+    "yield": 443,
+    "cultivationArea": 126
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Groundnut",
+    "production": 93,
+    "yield": 1893,
+    "cultivationArea": 49.2
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Pulses",
+    "production": 254,
+    "yield": 853,
+    "cultivationArea": 298
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "RapeseedMustard",
+    "production": 84,
+    "yield": 1410,
+    "cultivationArea": 59.6
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "RawJuteMesta",
+    "production": 100,
+    "yield": 2435,
+    "cultivationArea": 7.4
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Rice",
+    "production": 1128,
+    "yield": 2576,
+    "cultivationArea": 438
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Soyabean",
+    "production": 109,
+    "yield": 1058,
+    "cultivationArea": 103
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Sugarcane",
+    "production": 3799,
+    "yield": 80198,
+    "cultivationArea": 47.3
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Tea",
+    "production": 13251,
+    "yield": 2208,
+    "cultivationArea": 5.8
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Tobacco",
+    "production": 10,
+    "yield": 2317,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "2017",
+    "cropName": "Wheat",
+    "production": 999,
+    "yield": 3368,
+    "cultivationArea": 297
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "CoarseCereals",
+    "production": 431,
+    "yield": 1944,
+    "cultivationArea": 221
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Coffee",
+    "production": 3195,
+    "yield": 767,
+    "cultivationArea": 4.6
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "CottonLint",
+    "production": 280,
+    "yield": 378,
+    "cultivationArea": 126.14
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Groundnut",
+    "production": 67,
+    "yield": 1422,
+    "cultivationArea": 47.31
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Pulses",
+    "production": 221,
+    "yield": 757,
+    "cultivationArea": 292
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "RapeseedMustard",
+    "production": 93,
+    "yield": 1511,
+    "cultivationArea": 61.2
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "RawJuteMesta",
+    "production": 98,
+    "yield": 2508,
+    "cultivationArea": 7.05
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Rice",
+    "production": 1165,
+    "yield": 2638,
+    "cultivationArea": 442
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Soyabean",
+    "production": 133,
+    "yield": 1192,
+    "cultivationArea": 111.3
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Sugarcane",
+    "production": 4054,
+    "yield": 80105,
+    "cultivationArea": 50.6
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Tea",
+    "production": 13500,
+    "yield": 2109,
+    "cultivationArea": 6.4
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Tobacco",
+    "production": 7,
+    "yield": 1610,
+    "cultivationArea": 4.1
+  },
+  {
+    "country": "India",
+    "year": "2018",
+    "cropName": "Wheat",
+    "production": 1036,
+    "yield": 3533,
+    "cultivationArea": 293
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "CoarseCereals",
+    "production": 478,
+    "yield": 1991,
+    "cultivationArea": 240
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Coffee",
+    "production": 2980,
+    "yield": 713,
+    "cultivationArea": 4.6
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "CottonLint",
+    "production": 361,
+    "yield": 454.93,
+    "cultivationArea": 134.8
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Groundnut",
+    "production": 100,
+    "yield": 2062.51,
+    "cultivationArea": 48.3
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Pulses",
+    "production": 230,
+    "yield": 823,
+    "cultivationArea": 280
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "RapeseedMustard",
+    "production": 91,
+    "yield": 1330.7,
+    "cultivationArea": 68.6
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "RawJuteMesta",
+    "production": 99,
+    "yield": 2640.55,
+    "cultivationArea": 6.7
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Rice",
+    "production": 1189,
+    "yield": 2722,
+    "cultivationArea": 437
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Soyabean",
+    "production": 112,
+    "yield": 920.7,
+    "cultivationArea": 121.9
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Sugarcane",
+    "production": 3705,
+    "yield": 80496.72,
+    "cultivationArea": 46
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Tea",
+    "production": 13608,
+    "yield": 2126.27,
+    "cultivationArea": 6.4
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Tobacco",
+    "production": 8,
+    "yield": 1982,
+    "cultivationArea": 4
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "cropName": "Wheat",
+    "production": 1079,
+    "yield": 3440,
+    "cultivationArea": 314
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "CoarseCereals",
+    "production": 512,
+    "yield": 2146,
+    "cultivationArea": 238
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Coffee",
+    "production": 3538,
+    "yield": 790,
+    "cultivationArea": 4.7
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "CottonLint",
+    "production": 354,
+    "yield": 462.46,
+    "cultivationArea": 130.1
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Groundnut",
+    "production": 102,
+    "yield": 1675.62,
+    "cultivationArea": 60.9
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Pulses",
+    "production": 257,
+    "yield": 892,
+    "cultivationArea": 288
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "RapeseedMustard",
+    "production": 101,
+    "yield": 1511.16,
+    "cultivationArea": 66.9
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "RawJuteMesta",
+    "production": 96,
+    "yield": 2594.89,
+    "cultivationArea": 6.6
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Rice",
+    "production": 1223,
+    "yield": 2713,
+    "cultivationArea": 451
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Soyabean",
+    "production": 129,
+    "yield": 1006.78,
+    "cultivationArea": 128.1
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Sugarcane",
+    "production": 3993,
+    "yield": 82205.14,
+    "cultivationArea": 48.6
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Tea",
+    "production": 12803,
+    "yield": 2004.73,
+    "cultivationArea": 6.4
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Tobacco",
+    "production": "",
+    "yield": "",
+    "cultivationArea": ""
+  },
+  {
+    "country": "India",
+    "year": "2020",
+    "cropName": "Wheat",
+    "production": 1095,
+    "yield": 3464,
+    "cultivationArea": 316
+  }
+]
