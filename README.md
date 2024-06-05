@@ -1,4 +1,4 @@
-# Covi-Helper Website
+# Crop Analytics Demo
 
 ### Table 1 :
 
